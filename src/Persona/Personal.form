@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jTextField1" max="32767" attributes="0"/>
+                                          <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Component id="jLabel1" max="32767" attributes="0"/>
+                                          <EmptySpace min="-2" pref="99" max="-2" attributes="0"/>
+                                      </Group>
+                                      <Group type="102" alignment="0" attributes="0">
+                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jTextField4" alignment="0" pref="220" max="32767" attributes="0"/>
+                                              <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jTextField7" alignment="0" max="32767" attributes="0"/>
+                                          </Group>
+                                          <EmptySpace max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel3" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jTextField5" alignment="0" pref="220" max="32767" attributes="0"/>
+                                      <Component id="jTextField8" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jTextField2" alignment="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace pref="10" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace pref="66" max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel16" alignment="1" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel13" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jLabel14" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jTextField10" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                      <Component id="jLabel18" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace max="32767" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jTextField11" min="-2" pref="220" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="jTextField6" alignment="1" pref="220" max="32767" attributes="0"/>
+                                          <Component id="jTextField3" alignment="1" max="32767" attributes="0"/>
+                                          <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jTextField9" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                      <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="jComboBox1" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                      <Component id="jComboBox3" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                      <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="32767" attributes="0"/>
+                                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="jComboBox2" alignment="0" min="-2" pref="220" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <EmptySpace pref="35" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextField12" min="-2" pref="220" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jTextField1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTextField2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTextField3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                          <Component id="jTextField5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jTextField6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jTextField4" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                                  <Component id="jTextField7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jTextField8" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="jTextField9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jComboBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel13" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jComboBox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel16" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jComboBox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel14" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="jPanel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jTextField10" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jTextField11" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jTextField12" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Properties>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder/>
+              </Border>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel17" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jRadioButton3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jRadioButton4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jRadioButton7" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="jRadioButton8" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="jRadioButton5" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="jRadioButton6" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                              <Component id="jRadioButton1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jRadioButton2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="20" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel10" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jRadioButton7" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jRadioButton8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel17" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Sexo"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Leer y Escribir"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel10">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Oralizado"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Masculino"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton2">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Femenino"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jRadioButton2ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Si"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton4">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="No"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton5">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Si"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton6">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="No"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Si"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JRadioButton" name="jRadioButton8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="No"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Sordo"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Registrar Participante:"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nombre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField1">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido Paterno"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Apellido Paterno"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField2">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField3">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="CURP"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="RFC"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Fecha de Nacimiento"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField4">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField5">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField6">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Telefono"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField7">
+        </Component>
+        <Component class="javax.swing.JComboBox" name="jComboBox1">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="5">
+                <StringItem index="0" value="Ninguno"/>
+                <StringItem index="1" value="Primaria"/>
+                <StringItem index="2" value="Secundaria"/>
+                <StringItem index="3" value="Preparatoria"/>
+                <StringItem index="4" value="Universidad"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboBox1ActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Escolaridad"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel14">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Nivel LSM"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="jComboBox2">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="4">
+                <StringItem index="0" value="Desconocido"/>
+                <StringItem index="1" value="Principiante"/>
+                <StringItem index="2" value="Medio"/>
+                <StringItem index="3" value="Alto"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Correo Electronico"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField8">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel15">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Direccion"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField9">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel16">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Tipo de Estudio"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JComboBox" name="jComboBox3">
+          <Properties>
+            <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+              <StringArray count="235">
+                <StringItem index="0" value="Abogac&#xed;a"/>
+                <StringItem index="1" value="Accidentolog&#xed;a Vial"/>
+                <StringItem index="2" value="Acompa&#xf1;ante Terap&#xe9;utico"/>
+                <StringItem index="3" value="Actividad f&#xed;sica y deportiva"/>
+                <StringItem index="4" value="Actor de Teatro, cine y TV"/>
+                <StringItem index="5" value="Actor y Director de Artes Esc&#xe9;nicas"/>
+                <StringItem index="6" value="Actuaci&#xf3;n"/>
+                <StringItem index="7" value="Actuario"/>
+                <StringItem index="8" value="Acuicultura"/>
+                <StringItem index="9" value="Administraci&#xf3;n"/>
+                <StringItem index="10" value="Administraci&#xf3;n Aduanera - Despachante de Aduana"/>
+                <StringItem index="11" value="Administraci&#xf3;n Aeron&#xe1;utica"/>
+                <StringItem index="12" value="Administraci&#xf3;n Agropecuaria"/>
+                <StringItem index="13" value="Administraci&#xf3;n Ambiental"/>
+                <StringItem index="14" value="Administraci&#xf3;n Bancaria"/>
+                <StringItem index="15" value="Administraci&#xf3;n de Agencias de Viajes y Turismo"/>
+                <StringItem index="16" value="Agente de Viajes y Turismo"/>
+                <StringItem index="17" value="Administraci&#xf3;n de Bienes Culturales"/>
+                <StringItem index="18" value="Administraci&#xf3;n de Recursos Humanos"/>
+                <StringItem index="19" value="Administraci&#xf3;n de Salud"/>
+                <StringItem index="20" value="Administraci&#xf3;n y Sistemas"/>
+                <StringItem index="21" value="Artes Electr&#xf3;nicas"/>
+                <StringItem index="22" value="Biodiversidad"/>
+                <StringItem index="23" value="Bioinform&#xe1;tica"/>
+                <StringItem index="24" value="Bioingenier&#xed;a"/>
+                <StringItem index="25" value="Administraci&#xf3;n de Servicios de Salud"/>
+                <StringItem index="26" value="Administraci&#xf3;n Hotelera"/>
+                <StringItem index="27" value="Agrimensura"/>
+                <StringItem index="28" value="Agronom&#xed;a "/>
+                <StringItem index="29" value="An&#xe1;lisis de sistemas"/>
+                <StringItem index="30" value="Antropolog&#xed;a"/>
+                <StringItem index="31" value="Archivolog&#xed;a"/>
+                <StringItem index="32" value="Arquitectura"/>
+                <StringItem index="33" value="Arte Dram&#xe1;tico (Teatro)"/>
+                <StringItem index="34" value="Artes Audiovisuales"/>
+                <StringItem index="35" value="Artes Electr&#xf3;nicas"/>
+                <StringItem index="36" value="Artes Pl&#xe1;sticas"/>
+                <StringItem index="37" value="Artes y Ciencias del Teatro"/>
+                <StringItem index="38" value="Asesor - Asesoramiento en Imagen"/>
+                <StringItem index="39" value="Asesor en Imagen Corporativa"/>
+                <StringItem index="40" value="Asistente en Administraci&#xf3;n Hotelera"/>
+                <StringItem index="41" value="Asistente en Ceremonial y Organizaci&#xf3;n"/>
+                <StringItem index="42" value="Astronom&#xed;a"/>
+                <StringItem index="43" value="Aviaci&#xf3;n"/>
+                <StringItem index="44" value="Azafata"/>
+                <StringItem index="45" value="Bellas Artes"/>
+                <StringItem index="46" value="Bibliotecolog&#xed;a"/>
+                <StringItem index="47" value="Bibliotecolog&#xed;a y Ciencias de la Informaci&#xf3;n"/>
+                <StringItem index="48" value="Bioinform&#xe1;tica"/>
+                <StringItem index="49" value="Bioingenier&#xed;a"/>
+                <StringItem index="50" value="Bioqu&#xed;mica"/>
+                <StringItem index="51" value="Biotecnolog&#xed;a"/>
+                <StringItem index="52" value="Bioterio"/>
+                <StringItem index="53" value="Bromatolog&#xed;a"/>
+                <StringItem index="54" value="Cal&#xed;grafo p&#xfa;blico "/>
+                <StringItem index="55" value="Ciencia Pol&#xed;tica"/>
+                <StringItem index="56" value="Ciencias Ambientales"/>
+                <StringItem index="57" value="Canto"/>
+                <StringItem index="58" value="Chef Internacional"/>
+                <StringItem index="59" value="Ciencia y Tecnolog&#xed;a de los Alimentos"/>
+                <StringItem index="60" value="Ciencias Ambientales"/>
+                <StringItem index="61" value="Ciencias del Gobierno"/>
+                <StringItem index="62" value="Composici&#xf3;n con Medios Electroac&#xfa;sticos"/>
+                <StringItem index="63" value="Creatividad Educativa "/>
+                <StringItem index="64" value="Criminal&#xed;stica"/>
+                <StringItem index="65" value="Ciencias Antropol&#xf3;gicas"/>
+                <StringItem index="66" value="Ciencias biol&#xf3;gicas"/>
+                <StringItem index="67" value="Ciencias de la Atm&#xf3;sfera"/>
+                <StringItem index="68" value="Ciencias de la Computaci&#xf3;n"/>
+                <StringItem index="69" value="Ciencias de la Comunicaci&#xf3;n"/>
+                <StringItem index="70" value="Ciencias de la Educaci&#xf3;n"/>
+                <StringItem index="71" value="Ciencias F&#xed;sicas"/>
+                <StringItem index="72" value="Ciencias Geol&#xf3;gicas"/>
+                <StringItem index="73" value="Ciencias Matem&#xe1;ticas"/>
+                <StringItem index="74" value="Ciencias Pol&#xed;ticas"/>
+                <StringItem index="75" value="Ciencias Qu&#xed;micas"/>
+                <StringItem index="76" value="Ciencias Veterinarias"/>
+                <StringItem index="77" value="Cine - Direcci&#xf3;n Cinematogr&#xe1;fica"/>
+                <StringItem index="78" value="Cocinero"/>
+                <StringItem index="79" value="Comercio Internacional"/>
+                <StringItem index="80" value="Comisarios de a Bordo y Azafata"/>
+                <StringItem index="81" value="Compaginaci&#xf3;n Cinematogr&#xe1;fica"/>
+                <StringItem index="82" value="Comunicaci&#xf3;n Publicitaria"/>
+                <StringItem index="83" value="Contador P&#xfa;blico"/>
+                <StringItem index="84" value="Cosmetolog&#xed;a, Cosmiatr&#xed;a y Est&#xe9;tica"/>
+                <StringItem index="85" value="Counseling"/>
+                <StringItem index="86" value="Cr&#xed;tica Cinematogr&#xe1;fica"/>
+                <StringItem index="87" value="Danza"/>
+                <StringItem index="88" value="Dermatocosmiatr&#xed;a"/>
+                <StringItem index="89" value="Despachante de Aeronaves"/>
+                <StringItem index="90" value="Diagn&#xf3;stico por Im&#xe1;genes"/>
+                <StringItem index="91" value="Dibujante asistido por Computadora"/>
+                <StringItem index="92" value="Dise&#xf1;o Asistido"/>
+                <StringItem index="93" value="Direcci&#xf3;n de cine"/>
+                <StringItem index="94" value="Direcci&#xf3;n de Fotograf&#xed;a"/>
+                <StringItem index="95" value="Direcci&#xf3;n Teatral"/>
+                <StringItem index="96" value="Dise&#xf1;o Asistido"/>
+                <StringItem index="97" value="Dise&#xf1;o de Animaciones y Dibujos Animados"/>
+                <StringItem index="98" value="Dise&#xf1;o de Espect&#xe1;culos"/>
+                <StringItem index="99" value="Dise&#xf1;o de Historietas"/>
+                <StringItem index="100" value="Dise&#xf1;o de Imagen Empresaria"/>
+                <StringItem index="101" value="Dise&#xf1;o de Imagen y Sonido "/>
+                <StringItem index="102" value="Dise&#xf1;o de Indumentaria y Textil"/>
+                <StringItem index="103" value="Dise&#xf1;o de Indumentaria con Tecnolog&#xed;a Digital aplicada"/>
+                <StringItem index="104" value="Dise&#xf1;o de Informaci&#xf3;n"/>
+                <StringItem index="105" value="Dise&#xf1;o de Interiores - Decorador de Interiores"/>
+                <StringItem index="106" value="Dise&#xf1;o de Interiores y Equipamiento"/>
+                <StringItem index="107" value="Dise&#xf1;o de Joyas"/>
+                <StringItem index="108" value="Dise&#xf1;o de Mobiliario"/>
+                <StringItem index="109" value="Dise&#xf1;o de Modas"/>
+                <StringItem index="110" value="Dise&#xf1;o de Packaging"/>
+                <StringItem index="111" value="Dise&#xf1;o de Parques y Jardines"/>
+                <StringItem index="112" value="Dise&#xf1;o de Productos, Orientaci&#xf3;n Indumentaria"/>
+                <StringItem index="113" value="Dise&#xf1;o de Sitios Web"/>
+                <StringItem index="114" value="Dise&#xf1;o del Espacio Esc&#xe9;nico"/>
+                <StringItem index="115" value="Dise&#xf1;o del Paisaje"/>
+                <StringItem index="116" value="Dise&#xf1;o en Animaci&#xf3;n y Efectos Visuales"/>
+                <StringItem index="117" value="Dise&#xf1;o en Comunicaci&#xf3;n Visual"/>
+                <StringItem index="118" value="Dise&#xf1;o Escenogr&#xe1;fico"/>
+                <StringItem index="119" value="Dise&#xf1;o Fotogr&#xe1;fico"/>
+                <StringItem index="120" value="Dise&#xf1;o Gr&#xe1;fico"/>
+                <StringItem index="121" value="Dise&#xf1;o Gr&#xe1;fico Multimedial"/>
+                <StringItem index="122" value="Dise&#xf1;o Gr&#xe1;fico Publicitario"/>
+                <StringItem index="123" value="Dise&#xf1;o Industrial"/>
+                <StringItem index="124" value="Dise&#xf1;o Inform&#xe1;tico Editorial"/>
+                <StringItem index="125" value="Dise&#xf1;o Multimedial"/>
+                <StringItem index="126" value="Dise&#xf1;o Textil e Indumentaria"/>
+                <StringItem index="127" value="Ecolog&#xed;a Urbana"/>
+                <StringItem index="128" value="Enolog&#xed;a y Viticultura "/>
+                <StringItem index="129" value="Estad&#xed;stica"/>
+                <StringItem index="130" value="Estudios Orientales"/>
+                <StringItem index="131" value="Gen&#xe9;tica"/>
+                <StringItem index="132" value="Dise&#xf1;o Web"/>
+                <StringItem index="133" value="Dise&#xf1;o y Programaci&#xf3;n de Simuladores Virtuales"/>
+                <StringItem index="134" value="Ecolog&#xed;a"/>
+                <StringItem index="135" value="Econom&#xed;a y Administraci&#xf3;n de la Peque&#xf1;a y Mediana Empresa"/>
+                <StringItem index="136" value="Econom&#xed;a"/>
+                <StringItem index="137" value="Econom&#xed;a y Administraci&#xf3;n Agraria"/>
+                <StringItem index="138" value="Edici&#xf3;n"/>
+                <StringItem index="139" value="Enfermer&#xed;a "/>
+                <StringItem index="140" value="Farmacia "/>
+                <StringItem index="141" value="Filosof&#xed;a"/>
+                <StringItem index="142" value="Enfermero Universitario"/>
+                <StringItem index="143" value="Floricultura"/>
+                <StringItem index="144" value="Fonoaudiolog&#xed;a"/>
+                <StringItem index="145" value="Fotograf&#xed;a"/>
+                <StringItem index="146" value="Gastronom&#xed;a "/>
+                <StringItem index="147" value="Geograf&#xed;a"/>
+                <StringItem index="148" value="Gesti&#xf3;n Cultural y Emprendimientos Culturales"/>
+                <StringItem index="149" value="Gesti&#xf3;n de Agroalimentos"/>
+                <StringItem index="150" value="Gesti&#xf3;n y Administraci&#xf3;n Municipal"/>
+                <StringItem index="151" value="Grafolog&#xed;a"/>
+                <StringItem index="152" value="Guionista cinematogr&#xe1;fico"/>
+                <StringItem index="153" value="Guionista Cinematogr&#xe1;fico"/>
+                <StringItem index="154" value="Guionista de Radio y TV"/>
+                <StringItem index="155" value="Hemoterapia"/>
+                <StringItem index="156" value="Historia"/>
+                <StringItem index="157" value="Human&#xed;stica y Ceremonial"/>
+                <StringItem index="158" value="Iluminaci&#xf3;n Cinematogr&#xe1;fica"/>
+                <StringItem index="159" value="Iluminaci&#xf3;n y C&#xe1;mara Cinematogr&#xe1;ficas"/>
+                <StringItem index="160" value="Ingenier&#xed;a Civil"/>
+                <StringItem index="161" value="Ingenier&#xed;a de Alimentos "/>
+                <StringItem index="162" value="Ingenier&#xed;a Electricista "/>
+                <StringItem index="163" value="Ingenier&#xed;a Electr&#xf3;nica "/>
+                <StringItem index="164" value="Ingenier&#xed;a en Agrimensura "/>
+                <StringItem index="165" value="Ingenier&#xed;a en Inform&#xe1;tica"/>
+                <StringItem index="166" value="Ingenier&#xed;a en Alimentos "/>
+                <StringItem index="167" value="Ingenier&#xed;a en Automatizaci&#xf3;n y Control Industrial"/>
+                <StringItem index="168" value="Ingenier&#xed;a en Ecolog&#xed;a"/>
+                <StringItem index="169" value="Ingenier&#xed;a en Materiales"/>
+                <StringItem index="170" value="Ingenier&#xed;a en Seguridad e Higiene en el Trabajo"/>
+                <StringItem index="171" value="Ingenier&#xed;a Zootecnista"/>
+                <StringItem index="172" value="Martillero y Corredor P&#xfa;blico"/>
+                <StringItem index="173" value="Oceanograf&#xed;a"/>
+                <StringItem index="174" value="Organizaci&#xf3;n de la Producci&#xf3;n"/>
+                <StringItem index="175" value="Ingenier&#xed;a en Ecolog&#xed;a"/>
+                <StringItem index="176" value="Ingenier&#xed;a Mec&#xe1;nica"/>
+                <StringItem index="177" value="Ingenier&#xed;a Naval y Mec&#xe1;nica "/>
+                <StringItem index="178" value="Ingenier&#xed;a Qu&#xed;mica "/>
+                <StringItem index="179" value="Kinesiolog&#xed;a y Fisiatr&#xed;a "/>
+                <StringItem index="180" value="Letras"/>
+                <StringItem index="181" value="Instrumentaci&#xf3;n Quir&#xfa;rgica"/>
+                <StringItem index="182" value="Jardiner&#xed;a"/>
+                <StringItem index="183" value="Locutor Integral de Radio y TV"/>
+                <StringItem index="184" value="Manejo de &#xc1;reas Protegidas"/>
+                <StringItem index="185" value="Martillero y Corredor P&#xfa;blico Rural"/>
+                <StringItem index="186" value="Medicina"/>
+                <StringItem index="187" value="Meteor&#xf3;logo"/>
+                <StringItem index="188" value="Musicoterapia"/>
+                <StringItem index="189" value="Nutrici&#xf3;n"/>
+                <StringItem index="190" value="Observador Meteorol&#xf3;gico"/>
+                <StringItem index="191" value="Obstetricia"/>
+                <StringItem index="192" value="Oceanograf&#xed;a"/>
+                <StringItem index="193" value="Odontolog&#xed;a"/>
+                <StringItem index="194" value="Operador T&#xe9;cnico de Estudio y Planta Transmisora de Radiodifusi&#xf3;n"/>
+                <StringItem index="195" value="&#xd3;ptico T&#xe9;cnico"/>
+                <StringItem index="196" value="Organizaci&#xf3;n de Eventos"/>
+                <StringItem index="197" value="Paleontolog&#xed;a"/>
+                <StringItem index="198" value="Periodismo y Comunicaci&#xf3;n"/>
+                <StringItem index="199" value="Piloto Privado y Comercial de Avi&#xf3;n"/>
+                <StringItem index="200" value="Pod&#xf3;logo Universitario"/>
+                <StringItem index="201" value="Producci&#xf3;n de Bioim&#xe1;genes"/>
+                <StringItem index="202" value="Producci&#xf3;n Vegetal"/>
+                <StringItem index="203" value="Psicomotricidad"/>
+                <StringItem index="204" value="Relaciones Laborales - Recursos Humanos"/>
+                <StringItem index="205" value="Salud Ambiental"/>
+                <StringItem index="206" value="Seguridad Ciudadana"/>
+                <StringItem index="207" value="Producci&#xf3;n Vegetal Org&#xe1;nica"/>
+                <StringItem index="208" value="Producci&#xf3;n y Direcci&#xf3;n de Radio y TV"/>
+                <StringItem index="209" value="Producci&#xf3;n de Medios Audiovisuales, Eventos y Espect&#xe1;culos"/>
+                <StringItem index="210" value="Producci&#xf3;n y Direcci&#xf3;n de Televisi&#xf3;n, Cine y Radio"/>
+                <StringItem index="211" value="Profesorado en Artes Pl&#xe1;sticas"/>
+                <StringItem index="212" value="Profesorado en Ciencias Econ&#xf3;micas"/>
+                <StringItem index="213" value="Profesorado en Comunicaci&#xf3;n Social"/>
+                <StringItem index="214" value="Profesorado en Portugu&#xe9;s"/>
+                <StringItem index="215" value="Programador de Sistemas"/>
+                <StringItem index="216" value="Psicolog&#xed;a  "/>
+                <StringItem index="217" value="Psicolog&#xed;a Social"/>
+                <StringItem index="218" value="Psicomotricidad"/>
+                <StringItem index="219" value="Psicopedagog&#xed;a"/>
+                <StringItem index="220" value="Publicidad"/>
+                <StringItem index="221" value="Relaciones del Trabajo "/>
+                <StringItem index="222" value="Salud Ambiental"/>
+                <StringItem index="223" value="Seguridad Vial y Transporte"/>
+                <StringItem index="224" value="Tecnolog&#xed;a Educativa"/>
+                <StringItem index="225" value="Sistemas de Informaci&#xf3;n de las Organizaciones"/>
+                <StringItem index="226" value="Sociolog&#xed;a"/>
+                <StringItem index="227" value="Teatro"/>
+                <StringItem index="228" value="Tecnicatura Universitaria en Web"/>
+                <StringItem index="229" value="Tecnolog&#xed;a en Alimentos"/>
+                <StringItem index="230" value="Terapia Ocupacional"/>
+                <StringItem index="231" value="Trabajo Social"/>
+                <StringItem index="232" value="Traductorado P&#xfa;blico"/>
+                <StringItem index="233" value="Tripulante de Cabina de Pasajeros"/>
+                <StringItem index="234" value="Turismo"/>
+              </StringArray>
+            </Property>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton1">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Guardar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cancelar"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField10">
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField11">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel18">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Contrase&#xf1;a"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel19">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Repita la Contrase&#xf1;a"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="jTextField12">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel20">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Cuenta Bancaria"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
